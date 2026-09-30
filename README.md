@@ -15,5 +15,6 @@ I'm a B.Tech student specializing in Artificial Intelligence & Machine Learning,
 
 ## 🌐 Connect With Me
 
+- 🌍 Portfolio: [soham2121.github.io/portfolio](https://soham2121.github.io/portfolio/)
 - 💼 LinkedIn: [soham-desai-](https://www.linkedin.com/in/soham-desai-/)
 - 📧 Email: [sohamdesai67@gmail.com](mailto:sohamdesai67@gmail.com)
