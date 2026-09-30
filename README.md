@@ -7,12 +7,10 @@ I'm a B.Tech student specializing in Artificial Intelligence & Machine Learning,
 ## 👨‍💻 About Me
 
 - 🎓 Pursuing B.Tech in Artificial Intelligence & Machine Learning
-- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 🔐 Interested in Robotics, Cybersecurity, AI/ML and Game Developmentt
 - 🎮 Exploring Game Development with Unity and C#
-- 🔐 Interested in Cybersecurity
 - 🐍 Experienced with Python, C#, Java, SQL and React Native
 - ☁️ Exploring Cloud Computing, DevOps and CI/CD
-- 🚁 Interested in Robotics, Drones and Computer Vision
 - 🏆 Participated in hackathons, game jams and technical competitions
 
 ## 🌐 Connect With Me
