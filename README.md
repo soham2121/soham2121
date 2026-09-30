@@ -1,0 +1,21 @@
+# Hi, I'm Soham Desai 👋
+
+**B.Tech AI & ML Student | AI • Game Development • Cybersecurity**
+
+I'm a B.Tech student specializing in Artificial Intelligence & Machine Learning, passionate about building software, games, AI systems, and exploring emerging technologies.
+
+## 👨‍💻 About Me
+
+- 🎓 Pursuing B.Tech in Artificial Intelligence & Machine Learning
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 🎮 Exploring Game Development with Unity and C#
+- 🔐 Interested in Cybersecurity
+- 🐍 Experienced with Python, C#, Java, SQL and React Native
+- ☁️ Exploring Cloud Computing, DevOps and CI/CD
+- 🚁 Interested in Robotics, Drones and Computer Vision
+- 🏆 Participated in hackathons, game jams and technical competitions
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: [soham-desai-](https://www.linkedin.com/in/soham-desai-/)
+- 📧 Email: [sohamdesai67@gmail.com](mailto:sohamdesai67@gmail.com)
